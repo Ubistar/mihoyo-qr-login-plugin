@@ -1,0 +1,10 @@
+{
+  "name": "mihoyo-qr-login-plugin",
+  "version": "1.0.0",
+  "description": "Independent Yunzai/TRSS-Yunzai plugin for miHoYo/HoYoLAB China QR login cookie binding.",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "qrcode": "^1.5.4"
+  }
+}
